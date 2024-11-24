@@ -2,7 +2,22 @@
     <string name="app_name">Arcanos</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Bottom bar -->
     <string name="horoscope">Horoscope</string>
     <string name="luck">Luck</string>
     <string name="palmistry">Palmistry</string>
+    <!-- Horoscope -->
+    <string name="aries">Aries</string>
+    <string name="tauro">Taurus</string>
+    <string name="gemini">Gemini</string>
+    <string name="cancer">Cancer</string>
+    <string name="leo">Leo</string>
+    <string name="virgo">Virgo</string>
+    <string name="libra">Libra</string>
+    <string name="scorpio">Scorpio</string>
+    <string name="sagittaurius">Sagittaurius</string>
+    <string name="capricorn">Capricorn</string>
+    <string name="aquarius">Aquarius</string>
+    <string name="pisces">Pisces</string>
+
 </resources>
